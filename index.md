@@ -6,7 +6,7 @@ date: May 23, 2024
 
 ## Projects
 
-### [temp](https://jimlavrenz.github.io/) 
+### [temp](https://jimlavrenz.github.io/notebooks) 
 
 Testing 123
 
