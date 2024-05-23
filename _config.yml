@@ -1,3 +1,14 @@
 title: Jim Lavrenz
-show_downloads: false
+email: 
+description: Software Engineer / Embedded AI/ML
+
+github_username:  jimlavrenz
+linkedin_username: jimlavrenz
+
 theme: minima
+
+# markdown: GFM
+
+collections:
+  notes:
+    output: true
