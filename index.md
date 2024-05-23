@@ -6,9 +6,7 @@ date: May 23, 2024
 
 ## Projects
 
-### [temp](https://jimlavrenz.github.io/notebooks) 
-
-Testing 123 $x^2$
+### [notebooks](https://jimlavrenz.github.io/notebooks) 
 
 ## Notes
 
